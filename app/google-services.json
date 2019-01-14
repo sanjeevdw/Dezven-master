@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396161268316",
+    "firebase_url": "https://bjpbhopal-c1bb6.firebaseio.com",
+    "project_id": "bjpbhopal-c1bb6",
+    "storage_bucket": "bjpbhopal-c1bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396161268316:android:cbebec6c496628a2",
+        "android_client_info": {
+          "package_name": "com.example.android.dezven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396161268316-hh26r98df5kelj0dkv2gki7pt6ucud15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.dezven",
+            "certificate_hash": "7f19e326a44b117069f221665224f14b99ef4f73"
+          }
+        },
+        {
+          "client_id": "396161268316-18dsi3ed7v1fqc8btpe097ns16ssaomt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_NhS-dypv1YqmO0y9p3fOLVqEUwalVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396161268316-18dsi3ed7v1fqc8btpe097ns16ssaomt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

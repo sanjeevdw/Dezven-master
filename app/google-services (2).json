@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184731158891",
+    "firebase_url": "https://dezven-76063.firebaseio.com",
+    "project_id": "dezven-76063",
+    "storage_bucket": "dezven-76063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184731158891:android:cbebec6c496628a2",
+        "android_client_info": {
+          "package_name": "com.example.android.dezven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184731158891-bl5tsc9dqb1fdtls3k75ivrfedcs34ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.dezven",
+            "certificate_hash": "bec820d7635f31a4526411a371fbd9bd4f003c2c"
+          }
+        },
+        {
+          "client_id": "184731158891-gir3gt90lprkakm75nds5qpkdb772juc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpiT-zXr_UmW_XukMJ1HD_m3ifV3Gxc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184731158891-gir3gt90lprkakm75nds5qpkdb772juc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
